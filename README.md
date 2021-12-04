@@ -1,2 +1,2 @@
 # AoC2021
-My solutions to the Advent of Code 2021 challenges
+This repository contains my solutions for the Advent of Code (https://adventofcode.com/) 2021 challenges.
